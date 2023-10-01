@@ -38,12 +38,12 @@ CSS3
 JavaScript
 
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 
-##Fork the repository.
+## Fork the repository.
 
 Create a new branch for your feature or bug fix.
 Make your changes and commit them with a descriptive commit message.
